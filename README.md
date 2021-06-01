@@ -5,4 +5,4 @@ the shown image. These two ideas are united to make a chatbot. A chatbot is an a
 discussion through voice commands or text conversations or both. It is also known as artificial conversational entity. Chatbots
 take care of clients consistently of the day and week and are not restricted by time or a physical area.
 
-This project was done with the assistance of raspberry pi, Google APK's.
+This project was done with the assistance of raspberry pi and various Google APK's.
